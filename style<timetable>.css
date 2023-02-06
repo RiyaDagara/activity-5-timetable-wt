@@ -1,0 +1,23 @@
+th:nth-child(even){
+    background-color: #233039;
+}
+th{
+    border: 1px solid whitesmoke;
+    padding:25px 25px 25px 30px;
+    text-align: center;
+    font-style: oblique;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+td,tr{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    border-spacing: 2px;
+    font-style:ob;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+td:hover{
+background-color: #d4a851;
+}
